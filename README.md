@@ -1,9 +1,9 @@
-# Hi, I'm Aye Chan Aung 👋
+# Hi, I'm Aye Chan Aung 
 
 **Computer Engineer · AI & Computer Vision · Data & Web** 
 Based in Chiang Mai, Thailand
 
-I build systems that see, count and explain things: YOLO-based detection models running on edge devices, dashboards that make the results easy to read, and data-driven websites that tell a story. I graduated in Computer Engineering at Mae Fah Luang University (GPA 3.84), and I currently work as a Data Analyst at DVB.
+I build systems that see, count, and explain things: YOLO-based detection models running on edge devices, dashboards that make the results easy to read, and data-driven websites that tell a story. I graduated in Computer Engineering at Mae Fah Luang University (GPA 3.84), and I currently work as a Data Analyst at DVB.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayecham.github.io-0F3460?style=for-the-badge&logo=githubpages&logoColor=white)](https://ayecham.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-ayechanaung.dec27@gmail.com-0F3460?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayechanaung.dec27@gmail.com)
@@ -71,4 +71,4 @@ I build systems that see, count and explain things: YOLO-based detection models 
 
 ## 📫 Let's connect
 
-I'm open to work in **AI / computer vision, software engineering and data analysis**. The best way to reach me is by [email](mailto:ayechanaung.dec27@gmail.com), or have a look at my [portfolio](https://ayecham.github.io/portfolio/).
+I'm open to work in **AI/computer vision, software engineering, and data analysis**. The best way to reach me is by [email](mailto:ayechanaung.dec27@gmail.com), or have a look at my [portfolio](https://ayecham.github.io/portfolio/).
